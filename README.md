@@ -1,6 +1,6 @@
-# starTrekAliens-names
+# StarTrekAlien-names
 
-[![travis build](https://img.shields.io/travis/btribble/starTrekAliens-names.svg?style=flat-square)](https://travis-ci.org/btribble/starTrekAliens-names)
+[![travis build](https://img.shields.io/travis/btribble/starTrekAliens-names.svg?style=flat-square)](https://travis-ci.org/btribble/starTrek-alien-names)
 [![version](https://img.shields.io/npm/v/starTrek-alien-names-names.svg?style=flat-square)](http://npm.im/starTrek-alien-names-names)
 [![downloads](https://img.shields.io/npm/dm/starTrek-alien-names-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=starTrek-alien-names-names&from=2015-08-01)
 [![MIT License](https://img.shields.io/npm/l/starTrek-alien-names-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
@@ -8,7 +8,7 @@
 
 Get random alien races from Star Trek.
 
-![starTrek-alien-names-names](other/theQ.gif)
+![starTrek-alien-names](other/theQ.gif)
 
 ## Installation
 
