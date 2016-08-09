@@ -6,14 +6,6 @@ Get random alien races from Star Trek.
 
 ![starTrek-alien-names](other/theQ.gif)
 
-## Installation
-
-This package is distributed via npm:
-
-```
-npm install starTrek-alien-names
-```
-
 ## Usage
 
 ```javascript
